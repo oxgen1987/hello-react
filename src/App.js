@@ -11,7 +11,7 @@ class App extends Component {
 
     return (
       <div style={style}>
-        hi there
+        Hello React
       </div>
     );
   }
